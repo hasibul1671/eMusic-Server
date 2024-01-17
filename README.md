@@ -1,5 +1,5 @@
 # SMS_Server
-# A School Management System
+# A EMUSIC From V1 Branck System
 
 Welcome to the  project! This is an SM System website that provides a platform for organizing and managing activities and courses online. It offers a range of features for administrators, instructors, and students to enhance the summer camp learning experience.
 
